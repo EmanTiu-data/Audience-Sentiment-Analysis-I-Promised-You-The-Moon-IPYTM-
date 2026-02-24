@@ -1,0 +1,2 @@
+# Audience-Sentiment-Analysis-I-Promised-You-The-Moon-IPYTM-
+This project analyzes audience perception regarding character development in the Thai drama IPYTM. Using Web Scraping and basic Natural Language Processing, the script extracts hundreds of reviews from MyDramaList to determine if users believe the protagonists stayed true to their character or if there was an "out of character" shift in the sequel.
